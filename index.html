@@ -11,7 +11,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
 
-    <link rel="icon" type="image/png" href="images/bateria.png">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/estilos.css">
 
@@ -21,7 +20,7 @@
     <h1>Anime Music Box</h1>
 
     <section class="teclado">
-        <button class="kenshin" onclick="kenshinSom01()" ></button> 
+        <button class="kenshin" onclick="tocaKenshin()" ></button> 
         <button class="frontier" onclick="frontierSom01()"></button>
         <button class="titan" onclick="titanSom01()"></button>
 
@@ -34,15 +33,22 @@
         <button class="shura" onclick="shuraSom01()"></button>
     </section>
 
-    <audio src="sounds/keyq.wav" id="som_kenshin_01"></audio>
-    <audio src="sounds/keyw.wav" id="som_frontier_01"></audio>
-    <audio src="sounds/keye.wav" id="som_tecla_tim"></audio>
-    <audio src="sounds/keya.wav" id="som_tecla_puff"></audio>
-    <audio src="sounds/keys.wav" id="som_tecla_splash"></audio>
+
+
+    <audio src="sounds/kenshin01.mp3" class ="samurai" id="som_kenshin_01"></audio>
+    <audio src="sounds/kenshin02.mp3" class ="samurai" id="som_kenshin_02"></audio>
+    <audio src="sounds/kenshin04.mp3" class ="samurai" id="som_kenshin_04"></audio>
+    <audio src="sounds/kenshin05.mp3" class ="samurai" id="som_kenshin_05"></audio>
+    <audio src="sounds/kenshin06.mp3" class ="samurai" id="som_kenshin_06"></audio>
+
     <audio src="sounds/keyd.wav" id="som_tecla_toim"></audio>
     <audio src="sounds/keyz.wav" id="som_tecla_psh"></audio>
     <audio src="sounds/keyx.wav" id="som_tecla_tic"></audio>
     <audio src="sounds/keyc.wav" id="som_tecla_tom"></audio>
+
+
+
+
 
     <script src="main.js"></script>
 

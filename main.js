@@ -1,11 +1,7 @@
-function kenshinSom01 () {
-    document.querySelector('#som_kenshin_01').play();
+function tocaKenshin() {
+    document.querySelector('.samurai').play();
 }
 
-function frontierSom01 () {
-    document.querySelector('#som_frontier_01').play();
-}
+const kenshinSounds = document.querySelectorAll('.samurai');
 
-
-
-//document.querySelector('.kenshin').onclick = tocaSomPom;
+for (let contador = 0; contador < kenshinSounds.length; contador++);

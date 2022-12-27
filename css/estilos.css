@@ -7,7 +7,7 @@
 }
 
 body {
-  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/Anime_Music-Box/images/wall01.jpg);
+  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/images/wall01.jpg);
   background-size: cover;
   align-items: center;
   display: flex;
@@ -34,7 +34,7 @@ h1 {
 }
 
 .kenshin {
-  background: url(/Anime_Music-Box/images/img01.jpg);
+  background: url(/images/img01.jpg);
   background-size:cover;
   background-position: center;
   border-radius: 30px;
@@ -61,7 +61,7 @@ h1 {
 
 
 .frontier {
-  background: url(/Anime_Music-Box/images/img02.png);
+  background: url(/images/img02.png);
   background-size:cover;
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
@@ -76,7 +76,7 @@ h1 {
 }
 
 .titan {
-  background: url(/Anime_Music-Box/images/img03.jpg);
+  background: url(/images/img03.jpg);
   background-size: cover;
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
@@ -87,7 +87,7 @@ h1 {
 }
 
 .naruto {
-  background: url(/Anime_Music-Box/images/img04.jpg);
+  background: url(/images/img04.jpg);
   background-size: cover;
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
@@ -98,7 +98,7 @@ h1 {
 }
 
 .gits {
-  background: url(/Anime_Music-Box/images/img05.png);
+  background: url(/images/img05.png);
   background-size: cover;
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
@@ -109,7 +109,7 @@ h1 {
 }
 
 .code {
-  background: url(/Anime_Music-Box/images/img06.jpg);
+  background: url(/images/img06.jpg);
   background-size: cover;
   background-position: center;
   border-radius: 30px;
@@ -121,7 +121,7 @@ h1 {
 }
 
 .saint {
-  background: url(/Anime_Music-Box/images/img7.jpg);
+  background: url(/images/img7.jpg);
   background-size: cover;
   background-position:center;
   border-radius: 30px;
@@ -133,7 +133,7 @@ h1 {
 }
 
 .gundam {
-  background: url(/Anime_Music-Box/images/img08.jpg);
+  background: url(/images/img08.jpg);
   background-size: cover;
   background-position:center;
   border-radius: 30px;
@@ -145,7 +145,7 @@ h1 {
 }
 
 .shura {
-  background: url(/Anime_Music-Box/images/img09.jpg);
+  background: url(/images/img09.jpg);
   background-size: cover;
   background-position:center;
   border-radius: 30px;
