@@ -1,6 +1,6 @@
 
 
-# Anime Music Box 🎶
+<h1 align="center">Anime Music Box</h1> 🎶
 
 
 
