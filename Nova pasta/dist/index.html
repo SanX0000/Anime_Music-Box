@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Anime Music Box</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+<body>
+
+    <h1>Anime Music Box</h1>
+
+    <section class="teclado">
+        <button class="kenshin" onclick="tocaKenshin()" ></button> 
+        <button class="frontier" onclick="frontierSom01()"></button>
+        <button class="titan" onclick="titanSom01()"></button>
+
+        <button class="naruto" onclick="narutoSom01()"></button>
+        <button class="gits" onclick="gitsSom01()"></button>
+        <button class="code" onclick="codeSom01()"></button>
+
+        <button class="saint" onclick="saintSom01()"></button>
+        <button class="gundam" onclick="gundamSom01()"></button>
+        <button class="shura" onclick="shuraSom01()"></button>
+    </section>
+
+
+
+    <audio src="sounds/kenshin01.mp3" class ="samurai" id="som_kenshin_01"></audio>
+    <audio src="sounds/kenshin02.mp3" class ="samurai" id="som_kenshin_02"></audio>
+    <audio src="sounds/kenshin04.mp3" class ="samurai" id="som_kenshin_04"></audio>
+    <audio src="sounds/kenshin05.mp3" class ="samurai" id="som_kenshin_05"></audio>
+    <audio src="sounds/kenshin06.mp3" class ="samurai" id="som_kenshin_06"></audio>
+
+    <audio src="sounds/keyd.wav" id="som_tecla_toim"></audio>
+    <audio src="sounds/keyz.wav" id="som_tecla_psh"></audio>
+    <audio src="sounds/keyx.wav" id="som_tecla_tic"></audio>
+    <audio src="sounds/keyc.wav" id="som_tecla_tom"></audio>
+
+
+
+
+
+    <script src="main.js"></script>
+
+</body>
+</html>
