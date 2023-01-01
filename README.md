@@ -3,8 +3,12 @@
 <hr>
 <h1 align="center">Anime Music Box</h1>
 
-![macross3](https://user-images.githubusercontent.com/115950745/210158763-95bbab18-177f-4e14-9043-9e9dfe0f6ef0.png)
 
+<div align="center">
+  
+![macross3](https://user-images.githubusercontent.com/115950745/210158763-95bbab18-177f-4e14-9043-9e9dfe0f6ef0.png)
+  
+</div>
 
 <h2 align="center">🔨 Funcionalidades do projeto</h2>
 
