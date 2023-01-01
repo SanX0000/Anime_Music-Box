@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Anime Music Box</h1> 🎶
+<h1 align="center">Anime Music Box</h1>
+[macross](https://user-images.githubusercontent.com/115950745/210158640-b0a5d03e-1127-4e69-a0aa-7c4d72cbab28.jpg)
 
 
 
