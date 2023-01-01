@@ -1,16 +1,16 @@
 
 
+<hr>
 <h1 align="center">Anime Music Box</h1>
-[macross](https://user-images.githubusercontent.com/115950745/210158640-b0a5d03e-1127-4e69-a0aa-7c4d72cbab28.jpg)
+
+![macross3](https://user-images.githubusercontent.com/115950745/210158763-95bbab18-177f-4e14-9043-9e9dfe0f6ef0.png)
+
+
+<h2 align="center">🔨 Funcionalidades do projeto</h2>
 
 
 
-
-## 🔨 Funcionalidades do projeto
-
-
-
-## ✔️ Técnicas e tecnologias utilizadas
+<h2 align="center">✔️ Técnicas e tecnologias utilizadas </h2>
 
 - `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos elementos `<audio>` que irão prover para o JavaScript os controles de reprodução da mídia carregada. O HTML já virá pronto nos arquivos iniciais do curso;
 - `CSS`: O CSS tem papel fundamental para indicar a interação do usuário com a interface gráfica, portanto indica quando os botões são pressionados por mouse ou teclado. O CSS já virá pronto nos arquivos iniciais do curso;
@@ -26,15 +26,15 @@
   - `template string`;
   - `event handlers`;
 
-## 📁 Acesso ao projeto
+<h2 align="center">📁 Acesso ao projeto </h2>
 
 
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
-## 🛠️ Abrir e rodar o projeto
+<h2 align="center">🛠️ Abrir e rodar o projeto</h2>
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
-## 📚 Mais informações
+<h2 align="center">📚 Mais informações</h2>
 
