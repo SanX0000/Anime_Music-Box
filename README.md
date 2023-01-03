@@ -23,7 +23,7 @@ Quem nunca programou escutando uma música? E qual fã de anime nunca se pegou c
 
 ## <h2 align="center"> 🔨 Sobre a construção do projeto 🚧 </h2>
 O `HTML`
-foi usado para a inserção dos botões e tags. Com o `CSS` usei o `Grid` para dar o visual padrão da página e também as cores e efeitos. Foram usados 2 arquivos de `JavaScript`. O primeiro serviu para criar a lista de músicas separadas por séries, o que facilitou para deixar código mais organizado. No segundo usei o `querySelectorAll` para percorrer os botões que tem a mesma tag, e depois iniciar a função de tocar as músicas e forma aletória.
+foi usado para a inserção dos botões e tags. Com o `CSS` usei o `Grid` para dar o visual padrão da página e também as cores e efeitos. Foram usados 2 arquivos de `JavaScript`. O primeiro serviu para criar a lista de músicas separadas por séries, o que facilitou para deixar código mais organizado. No segundo usei o `querySelectorAll` para percorrer os botões que tem a mesma tag, e depois iniciar a função de tocar as músicas aleatoriamente 
     
 
 
