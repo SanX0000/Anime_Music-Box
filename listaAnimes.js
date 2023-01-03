@@ -81,7 +81,6 @@ export const listaAnimes = [
             "saint07.mp3",
             "saint08.mp3",
             "saint09.mp3",
-            "saint10.mp3",
         ]
     },
 
