@@ -11,6 +11,7 @@
 </div>
 
 <h2 align="center">💡 A ideia do projeto</h2>
+Quem nunca programou escutando uma música? E qual fã de anime nunca se pegou cantando as músicas da sua série favorita? Pois bem, com a união desses dois conceitos nasceu o Anime Music Box, um site que toca músicas aleatórias dos animes selecionados. Inicialmente, coloquei na lista apenas alguns animes dos quais gosto muito das músicas, mas posteriormente pretendo aumentar essa lista (aceito sugestões!!!)
 
 
 
@@ -24,24 +25,14 @@
 
 
 
-<h2 align="center">🔨 Funcionalidades do projeto</h2>
+<h2 align="center">🔨 Sobre a construção do projeto 🚧 </h2>
+    O site utiliza o `html` para dar `index.html`  vida.
+    `index.html` 
+    
 
 
 <h2 align="center">✔️ Técnicas e tecnologias utilizadas </h2>
 
-- `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos elementos `<audio>` que irão prover para o JavaScript os controles de reprodução da mídia carregada. O HTML já virá pronto nos arquivos iniciais do curso;
-- `CSS`: O CSS tem papel fundamental para indicar a interação do usuário com a interface gráfica, portanto indica quando os botões são pressionados por mouse ou teclado. O CSS já virá pronto nos arquivos iniciais do curso;
-- `JavaScript`: O JavaScript proporcionará programarmos a dinâmica de controle de reprodução de um som, que a princípio está sendo realizada pelo elemento `<audio>`, e passarmos este controle para os elementos `<button>`, com todo o cuidado de fazer um código inteligente, sem repetição, que cuida também os aspectos visuais com CSS dinâmico. Abaixo alguns tópicos abordados no curso:
-  - `querySelector`;
-  - `document`;
-  - `const`;
-  - `function`;
-  - `while`;
-  - `for`;
-  - `if`;
-  - `else`;
-  - `template string`;
-  - `event handlers`;
 
 <h2 align="center">📁 Acesso ao projeto </h2>
 
