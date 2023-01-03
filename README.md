@@ -7,7 +7,9 @@
   
 </div>
 
-## <h2 align="center">📁 Acesso ao projeto </h2>
+## <h2 align="center"> 🔗 Acesso ao projeto </h2>
+
+https://anime-music-box.vercel.app/
 
 <h2 align="center">💡 A ideia do projeto</h2>
 Quem nunca programou escutando uma música? E qual fã de anime nunca se pegou cantando as músicas da sua série favorita? Pois bem, com a união desses dois conceitos nasceu o Anime Music Box, um site que toca músicas aleatórias dos animes selecionados. Inicialmente, coloquei na lista apenas alguns animes dos quais gosto muito das músicas, mas posteriormente pretendo aumentar essa lista (aceito sugestões!!!)
