@@ -11,6 +11,8 @@
 
 https://anime-music-box.vercel.app/
 
+![Screenshot 2023-01-08 225050](https://user-images.githubusercontent.com/115950745/211230098-ae3942e8-f2a0-4a12-95e4-f8991882d2cf.png)
+
 <h2 align="center">💡 A ideia do projeto</h2>
 Quem nunca programou escutando uma música? E qual fã de anime nunca se pegou cantando as músicas da sua série favorita? Pois bem, com a união desses dois conceitos nasceu o Anime Music Box, um site que toca músicas aleatórias dos animes selecionados. Inicialmente, coloquei na lista apenas alguns animes dos quais gosto muito das músicas, mas posteriormente pretendo aumentar essa lista (aceito sugestões!!!)
 
@@ -24,7 +26,10 @@ Quem nunca programou escutando uma música? E qual fã de anime nunca se pegou c
 ## <h2 align="center"> 🔨 Sobre a construção do projeto 🚧 </h2>
 O `HTML`
 foi usado para a inserção dos botões e tags. Com o `CSS` usei o `Grid` para dar o visual padrão da página e também as cores e efeitos. Foram usados 2 arquivos de `JavaScript`. O primeiro serviu para criar a lista de músicas separadas por séries, o que facilitou para deixar código mais organizado. No segundo usei o `querySelectorAll` para percorrer os botões que tem a mesma tag, e depois iniciar a função de tocar as músicas aleatoriamente 
-    
+
+
+
+
 
 
 
